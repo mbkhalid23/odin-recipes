@@ -1,5 +1,6 @@
 * {
   font-family: Raleway, Roboto, Arial, sans-serif;
+  font-size: 18px;
 }
 
 body {
@@ -16,6 +17,12 @@ h2 {
   font-size: 30px;
 }
 
-ol {
+.recipe-list {
   font-size: 24px;
+}
+
+button {
+  padding: 10px;
+  border-radius: 50px;
+  background-color: #eeff00;
 }
