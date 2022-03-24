@@ -1,3 +1,21 @@
 * {
   font-family: Raleway, Roboto, Arial, sans-serif;
 }
+
+body {
+  background-color: #ffbb009c;
+}
+
+h1 {
+  text-align: center;
+  font-size: 36px;
+  background-color: lightgrey;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+ol {
+  font-size: 24px;
+}
