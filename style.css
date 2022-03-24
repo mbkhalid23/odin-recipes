@@ -17,12 +17,23 @@ h2 {
   font-size: 30px;
 }
 
+.recipe-list,
+.ingridients {
+  background-color: lightgray;
+  padding: 10px;
+}
+
 .recipe-list {
   font-size: 24px;
+  line-height: 1.5em;
 }
 
 button {
   padding: 10px;
   border-radius: 50px;
   background-color: #eeff00;
+}
+
+.centered {
+  text-align: center;
 }
