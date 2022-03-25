@@ -17,3 +17,6 @@ HTML Skills involved:
 3. Image tag to add images to a webpage.
 4. Unordered and Ordered lists.
 5. anchor tag to add links to different pages, both within the website and from the web.
+
+UPDATE:
+1. Added a few bits of styling with CSS.
